@@ -3,6 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-da-silva-nascimento-costa-4357b9262/)
 
+## Tecnologias em que desenvolvo
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSNC&layout=compact)]()
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
